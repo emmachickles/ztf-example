@@ -1,0 +1,24 @@
+# Ultracompact binaries from Burdge et al. 2020, ApJ 905, 32
+# "A Systematic Search of Zwicky Transient Facility Data for
+#  Ultracompact Binary LISA-detectable Gravitational-wave Sources"
+# Periods are in days from the published values (Table 3, converted from seconds).
+# ps_id values from cross-matching against ZTF matchfiles.
+# NOTE: The BLS/LS catalogs often recover half the true orbital period (a harmonic),
+# especially for eclipsing systems with two eclipses per orbit. The periods here
+# are the TRUE orbital periods from the paper.
+name,ra,dec,ps_id,period,type,notes
+ZTF J1539+5027,234.884000,50.460756,168552348840033664,0.004800828014,eclipsing double WD,6.91 min — shortest known eclipsing WD binary; strong LISA source
+ZTF J0538+1953,84.511375,19.884136,131860845113471536,0.010030130903,eclipsing double WD,14.44 min — eclipsing DA WD pair with irradiation
+ZTF J1905+3134,286.297250,31.575658,145892862972351424,0.011946347338,AM CVn,17.20 min — high-state AM CVn system
+PTF J0533+0209,83.383583,2.153197,110580833836074320,0.014282093750,ellipsoidal double WD,20.57 min — ellipsoidal DBA white dwarf
+ZTF J2029+1534,307.342958,15.575269,126693073428780736,0.014491394664,eclipsing double WD,20.87 min — eclipsing DA WD pair
+ZTF J0722-1839,110.589542,-18.658492,85611105895350144,0.016464683507,eclipsing double WD,23.70 min — eclipsing DA WD pair
+ZTF J1749+0924,267.480417,9.409000,119292674803981328,0.018356873727,eclipsing double WD,26.43 min — eclipsing DA WD pair
+ZTF J2228+4949,337.112792,49.821233,167783371127866176,0.019833134491,AM CVn,28.56 min — high-state AM CVn system
+ZTF J1946+3203,296.516208,32.053647,146462965161694976,0.023308118171,eclipsing double WD,33.56 min — eclipsing with ellipsoidal variability
+ZTF J0643+0318,100.903208,3.307625,111961009032069600,0.025634326389,accreting He star,36.91 min — accreting helium star system
+ZTF J0640+1738,100.077875,17.645836,,0.025879814815,ellipsoidal sdB binary,37.27 min — not in BLS catalog for this field
+ZTF J2130+4420,322.736292,44.346228,161213227363186144,0.027319516204,ellipsoidal sdB binary,39.34 min — ellipsoidal sdB binary
+ZTF J1901+5309,285.355917,53.158131,171792853559000480,0.028195696412,eclipsing double WD,40.60 min — eclipsing DA WD pair
+ZTF J2320+3750,350.085125,37.841900,153413500852100800,0.038365738426,ellipsoidal double WD,55.25 min — ellipsoidal DA WD pair
+ZTF J2055+4651,313.816583,46.851792,164223138166072800,0.039130440972,eclipsing double WD,56.35 min — eclipsing with ellipsoidal variability
